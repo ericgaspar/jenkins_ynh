@@ -7,7 +7,7 @@
 
 > **This package doesn't work anymore on debian Jessie, because the last jenkins version which works on Jessie was 2.46.3, but the plugins aren't available anymore for this version.**
 
-> *This package allow you to install jenkins quickly and simply on a YunoHost server.  
+> *This package allow you to install Jenkins quickly and simply on a YunoHost server.  
 If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to know how to install and enjoy it.*
 
 ## Overview
@@ -17,7 +17,7 @@ The leading open source automation server, Jenkins provides hundreds of plugins 
 
 ## Screenshots
 
-![](https://crudelis.fr/lutim/w8DlycXB.png)
+![](Screenshots.png)
 
 ## Demo
 
@@ -40,9 +40,8 @@ Supported, with LDAP and SSO.
 
 #### Supported architectures
 
-* x86-64b - [![](https://ci-apps.yunohost.org/ci/logs/jenkins%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/jenkins/)
+* x86-64 - [![](https://ci-apps.yunohost.org/ci/logs/jenkins%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/jenkins/)
 * ARMv8-A - [![](https://ci-apps-arm.yunohost.org/ci/logs/jenkins%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/jenkins/)
-* Jessie x86-64b - [![](https://ci-stretch.nohost.me/ci/logs/jenkins%20%28Apps%29.svg)](https://ci-stretch.nohost.me/ci/apps/jenkins/)
 
 ## Limitations
 
@@ -59,8 +58,7 @@ Supported, with LDAP and SSO.
 
 ---
 
-Developers infos
-----------------
+## Developers infos
 
 Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/jenkins_ynh/tree/testing).
 

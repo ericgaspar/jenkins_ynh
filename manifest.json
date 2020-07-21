@@ -54,8 +54,8 @@
 				},
 				"default": true,
 				"help": {
-					"en": "A public Jenkins will be accessible by everyone unless you configure the security into jenkins admin panel.",
-					"fr": "Un Jenkins public sera accessible par tout le monde à moins que vous ne configuriez la sécurité dans le panneau d'administration de jenkins."
+					"en": "A public Jenkins will be accessible by everyone unless you configure the security into Jenkins admin panel.",
+					"fr": "Un Jenkins public sera accessible par tout le monde à moins que vous ne configuriez la sécurité dans le panneau d'administration de Jenkins."
 				}
 			}
 		]

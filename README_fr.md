@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, merci de regarder [ici](https://yunohost.org/#/inst
 ## Résumé
 Premier serveur d'automatisation open source, Jenkins fournit des centaines de plugins pour supporter la construction, le déploiement et l'automatisation de n'importe quel projet.
 
-**Version embarquée:** 2.164.2
+**Version embarquée :** 2.164.2
 
 ## Captures d'écran
 
@@ -45,16 +45,16 @@ Supportée, avec LDAP et SSO.
 
 ## Limitations
 
-* Ne peut pas être mis à jour après la version actuelle 2.46, car il a besoin de certains paquets qui ne sont pas disponibles sur jessie.
+* Ne peut pas être mis à jour après la version actuelle 2.46, car il a besoin de certains paquets qui ne sont pas disponibles sur Jessie.
 
 ## Informations additionnelles
 
 ## Liens
 
- * Reporter un bug: https://github.com/YunoHost-Apps/jenkins_ynh/issues
- * Site de jenkins: https://jenkins.io
- * Dépôt git de jenkins: https://github.com/jenkinsci/jenkins
- * Site de YunoHost: https://yunohost.org/
+ * Reporter un bug : https://github.com/YunoHost-Apps/jenkins_ynh/issues
+ * Site de jenkins : https://jenkins.io
+ * Dépôt git de jenkins : https://github.com/jenkinsci/jenkins
+ * Site de YunoHost : https://yunohost.org/
 
 ---
 

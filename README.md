@@ -45,7 +45,7 @@ Supported, with LDAP and SSO.
 
 ## Limitations
 
-* Can't be updated after the current version 2.46, because it need some packages not available on jessie.
+* Can't be updated after the current version 2.46, because it need some packages not available on Jessie.
 
 ## Additionnal informations
 

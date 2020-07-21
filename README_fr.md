@@ -52,8 +52,8 @@ Supportée, avec LDAP et SSO.
 ## Liens
 
  * Reporter un bug : https://github.com/YunoHost-Apps/jenkins_ynh/issues
- * Site de jenkins : https://jenkins.io
- * Dépôt git de jenkins : https://github.com/jenkinsci/jenkins
+ * Site de Jenkins : https://jenkins.io
+ * Dépôt git de Jenkins : https://github.com/jenkinsci/jenkins
  * Site de YunoHost : https://yunohost.org/
 
 ---
